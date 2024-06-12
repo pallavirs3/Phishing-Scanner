@@ -1,0 +1,43 @@
+Potentially Suspicious URLs:
+
+URL with an IP Address:
+http://192.168.1.1/login
+Characteristics: Uses an IP address, which is less common for public websites.
+
+URL with Suspicious Keywords:
+http://secure-update-your-bank.com
+Characteristics: Contains keywords like "secure" and "update," which are often associated with phishing.
+
+Very Long URL:
+http://example.com/this/is/a/very/long/url/that/exceeds/75/characters/to/check/for/suspicion
+Characteristics: The length of the URL is quite long, which can be a red flag.
+
+URL with Common Phishing Structure:
+http://verify-your-account-securely.com
+Characteristics: Keywords like "verify" and "account" indicate a potential phishing attempt.
+
+URL with Embedded Suspicious Keywords:
+http://example.com/login/secure/confirm-details
+Characteristics: Multiple suspicious keywords embedded within the path.
+
+Potentially Safe URLs:
+
+Standard Website URL:
+http://www.example.com
+Characteristics: Simple, straightforward URL with no suspicious elements.
+
+Secure and Recognizable URL:
+https://www.google.com
+Characteristics: Well-known, secure site using HTTPS.
+
+Short URL with No Suspicious Keywords:
+http://safe-site.org
+Characteristics: Short and lacks any suspicious keywords.
+
+Commonly Known Safe URL:
+https://www.wikipedia.org
+Characteristics: Trusted and commonly known website.
+
+URL with Subdirectories but Safe Content:
+https://www.github.com/openai/gpt-4
+Characteristics: Has subdirectories but is a known and trusted platform
